@@ -1,6 +1,5 @@
 # PromisesJS :pushpin:
-This repository contains theory examples and exercises for Promises, the documentation can be found in https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise 
-You should also check out https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+This repository contains theory examples and exercises for Promises, the documentation can be found in [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [there](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises).
 
 ## <u>Description</u> :paperclip:
 A Promise is an object representing the eventual completion or failure of an asynchronous operation. Since most people are consumers of already-created promises, this guide will explain consumption of returned promises before explaining how to create them.
