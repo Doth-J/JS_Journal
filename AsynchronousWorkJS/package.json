@@ -1,0 +1,20 @@
+{
+  "name": "asyncworkflows",
+  "version": "1.0.0",
+  "description": "Async Flow Control Examples and Exercises in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "flow:1": "node exercises/flow_1.js",
+    "flow:2": "node exercises/flow_2.js",
+    "flow:3": "node exercises/flow_3.js",
+    "flow:4": "node exercises/flow_4.js",
+    "flow:5": "node exercises/flow_5.js"
+  },
+  "keywords": [
+    "async",
+    "control-flow",
+    "callbacks"
+  ],
+  "author": "Doth-J",
+  "license": "ISC"
+}

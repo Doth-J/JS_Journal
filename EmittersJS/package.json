@@ -1,0 +1,18 @@
+{
+  "name": "emittersjs",
+  "version": "1.0.0",
+  "description": "Emitter JS Flow Examples",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "events",
+    "emmiters"
+  ],
+  "author": "Doth-J",
+  "license": "ISC"
+}
