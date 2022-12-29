@@ -1,4 +1,4 @@
-# AsynchronousWorkJS
+# AsynchronousWorkJS :pushpin:
 
 This repository contains theory examples and exercises for Node Asynchornous Work Flows as presented in https://nodejs.dev/en/learn/
 
