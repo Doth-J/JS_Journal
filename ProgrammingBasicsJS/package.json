@@ -1,0 +1,16 @@
+{
+  "name": "programmingbasics",
+  "version": "1.0.0",
+  "description": "",
+  
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "var1": "node examples/variables/variables1.js",
+    "var2": "node examples/variables/variables2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
