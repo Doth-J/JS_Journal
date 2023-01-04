@@ -1,7 +1,7 @@
 <h1> Programming Basics :computer: </h1> 
 This repository contains theory examples and exercises for programming basics of Javascript. Definitions along with examples on important fundamental aspects of the Javascript language. 
 
-- [Variables :memo:](#variables-memo)
+- [Variables](#variables)
   - [Types](#types)
   - [Declaration Syntax](#declaration-syntax)
 - [Arrays :memo:](#arrays-memo)
@@ -9,7 +9,7 @@ This repository contains theory examples and exercises for programming basics of
 - [Functions :memo:](#functions-memo)
 - [Control Flow :memo:](#control-flow-memo)
 
-## Variables :memo:
+## Variables
 In order to begin creating anything, we need a way to define a **variable**  which is a a *container* that can hold a *value*.
 
  ```javascript
